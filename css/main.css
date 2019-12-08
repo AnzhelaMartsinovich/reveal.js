@@ -1,0 +1,95 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	width: 100%;
+}
+
+.reveal{
+	background-color: wheat;
+	/* background: linear-gradient(to bottom, wheat 30%, #e9e2c3 30%, #fbfbfa 100%); */
+}
+
+.created-block{
+	margin-top: 60px;
+	text-align: left;
+	font-size: 27px;
+	color: #00a75e;
+	float: right;
+}
+
+.descr{
+	font-size: 28px;
+	line-height: 55px;
+}
+
+.descr-title{
+	display: inline-block;
+	font-size: 35px;
+	font-weight: bold;
+	color: #00a75e;
+}
+
+.descr__img{
+	width: 100px;
+	position: absolute;
+	bottom: -40%;
+	right: -5%;
+}
+
+.manifesto {
+	font-size: 28px;
+	line-height: 45px;
+}
+
+.manifesto-title{
+	font-size: 32px;
+	text-transform: uppercase;
+	margin-bottom: 25px;
+}
+
+.manifesto__bold{
+	font-weight: bold;
+	font-size: 30px;
+	color: #00a75e;
+}
+
+.methodologies-type-title{
+	margin-bottom: 50px;
+	font-weight: bold;
+	font-size: 35px;
+	color: #00a75e;
+}
+
+.methodologies-type-flex{
+	display: flex;
+}
+
+.methodologies-type-list{
+	margin-left: 100px;
+	list-style: none;
+}
+
+.methodologies-type-list li{
+	margin-bottom: 10px;
+	font-size: 30px;
+	line-height: 40px;
+	text-align: left;
+}
+
+.methodologies-type__img{
+	width: 100px;
+}
+
+.roles-title{
+	margin-bottom: 35px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.thanks{
+	font-size: 50px;
+	color: #00a75e;
+}
